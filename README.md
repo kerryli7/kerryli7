@@ -1,4 +1,4 @@
-# 💫 What's up:My Name is Zongpeng Li
+# 💫 What's up: My Name is Zongpeng Li
 🔭 Learning web Development, focusing on JavaScrpit and popular front-end framework<br>⚡ Just pursued a Master's degree in management of technology at New York University<br>🌱 I’m currently learning more about Systems Design and Cloud Architecture<br>📫 How to reach me kerryli6540@gmail.com<br><br>
 
 
